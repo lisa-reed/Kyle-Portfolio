@@ -11,7 +11,7 @@ li {
     float: left;
 }
 
-li a {
+li {
     display: block;
     color: white;
     text-align: center;
@@ -21,7 +21,7 @@ li a {
 
 
 li {
-    background-color: #111;
+    background-color: green;
 }
 
 
