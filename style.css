@@ -34,7 +34,7 @@ h1 {
     font-size: 30px;
    
 }
-h2 { float: center;
+h2 {  text-align: center;
 }
 .hobbies { 
   text-align: center;
