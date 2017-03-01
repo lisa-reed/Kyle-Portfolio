@@ -39,7 +39,7 @@ h1 {
 h2 {  text-align: center;
 }
 .hobbies { 
-  float: center;
+  text-align: center;
   font-size: 45px;
   background-color: grey; 
 }
