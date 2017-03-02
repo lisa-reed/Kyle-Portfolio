@@ -55,7 +55,9 @@ h3 { font-size: 70px;
 p { text-align: center;
     font-size: 25px;
 }
-img {float: center;
+img {
+    
+    text-align: center;
     border-style: solid;
     border-color: green;
     width: 150px;
