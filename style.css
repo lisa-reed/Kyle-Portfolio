@@ -38,7 +38,7 @@ h1 {
 }
 h2 {  text-align: center;
 }
-.hobbies li { 
+.hobbies { 
   text-align: center;
   font-size: 45px;
   background-color: grey; 
