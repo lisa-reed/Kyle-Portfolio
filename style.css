@@ -57,7 +57,8 @@ p { text-align: center;
 }
 img {
     
-    text-align: center;
+    float: center;
+    margin: 200pxl;
     border-style: solid;
     border-color: green;
     width: 150px;
